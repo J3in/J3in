@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j3in" alt="j3in" /></a> </p>
 
-- 🔭 I’m currently working on **A.I Virtual Assistant using Python**
+- 🔭 I’m currently working on **Tic Tac Toe using Java**
 
 - 🌱 I’m currently learning **react ,javascript**
 
